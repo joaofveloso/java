@@ -19,7 +19,7 @@
         <maven.plugins.maven-shade-plugin.version>2.3</maven.plugins.maven-shade-plugin.version>
 
         <aws-lambda-java-core.version>1.2.0</aws-lambda-java-core.version>
-        <aws-lambda-java-log4j2.version>1.1.0</aws-lambda-java-log4j2.version>
+        <aws-lambda-java-log4j2.version>1.6.2</aws-lambda-java-log4j2.version>
         <aws-lambda-java-events.version>2.2.3</aws-lambda-java-events.version>
         <aws-java-sdk-s3.version>1.11.447</aws-java-sdk-s3.version>
 
